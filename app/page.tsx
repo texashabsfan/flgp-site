@@ -83,10 +83,6 @@ we fix your intake, follow-up, and closing system so more consults turn into pay
     See Where You're Losing Clients
   </button>
 </a>
-
-    </main>
-  );
-}
 <h2>Next Step</h2>
 
 <p>
@@ -112,3 +108,7 @@ we fix your intake, follow-up, and closing system so more consults turn into pay
 <p style={{ fontSize: "14px", marginTop: "10px" }}>
   This is only for firms with consistent lead flow looking to improve conversion.
 </p>
+
+    </main>
+  );
+}
