@@ -1,5 +1,3 @@
-import type { ReactNode } from "react";
-
 export const metadata = {
   title: "FLGP",
   description: "Family Law Growth Partners",
@@ -8,7 +6,7 @@ export const metadata = {
 export default function RootLayout({
   children,
 }: {
-  children: ReactNode;
+  children: React.ReactNode;
 }) {
   return (
     <html lang="en">
