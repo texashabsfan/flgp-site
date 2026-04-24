@@ -9,7 +9,7 @@ export default function Page() {
 we fix your intake, follow-up, and closing system so more consults turn into paying cases.
       </p>
 
-     <a href="YOUR_CALENDLY_LINK" target="_blank">
+     <a href="https://calendly.com/michael-levar/30min/2026-04-27T08:00:00-05:00" target="_blank">
   <button style={{ marginTop: "20px", padding: "12px 20px", fontSize: "16px" }}>
     See Where You're Losing Clients
   </button>
@@ -48,7 +48,7 @@ we fix your intake, follow-up, and closing system so more consults turn into pay
       <h2>Next Step</h2>
       <p>Book a call and we’ll walk through your current pipeline and show you where you're losing clients.</p>
 
-     <a href="YOUR_CALENDLY_LINK" target="_blank">
+     <a href="https://calendly.com/michael-levar/30min/2026-04-27T08:00:00-05:00" target="_blank">
   <button style={{ marginTop: "20px", padding: "12px 20px", fontSize: "16px" }}>
     See Where You're Losing Clients
   </button>
