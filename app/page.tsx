@@ -37,7 +37,23 @@ we fix your intake, follow-up, and closing system so more consults turn into pay
         <li>Show-up rate systems</li>
         <li>Close rate improvement</li>
       </ul>
+<h2>Built Around the Actual Family Law Revenue Funnel</h2>
 
+<p>
+  Most firms do not have a lead problem. They have a conversion system problem.
+  We focus on the measurable path from lead to retained client.
+</p>
+
+<ul>
+  <li>How many leads become booked consults</li>
+  <li>How many consults actually show</li>
+  <li>How many consults become signed clients</li>
+  <li>Where follow-up breaks down</li>
+</ul>
+
+<p>
+  The first step is not guessing. It is diagnosing where revenue is leaking.
+</p>
       <h2>Outcome</h2>
       <p>
         More signed cases. More predictable revenue. Less wasted leads.
