@@ -1,13 +1,4 @@
-export const metadata = {
-  title: "FLGP",
-  description: "Family Law Growth Partners",
-};
-
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function RootLayout({ children }: any) {
   return (
     <html lang="en">
       <body>{children}</body>
