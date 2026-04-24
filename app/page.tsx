@@ -75,8 +75,6 @@ we fix your intake, follow-up, and closing system so more consults turn into pay
 
       <hr style={{ margin: "40px 0" }} />
 
-
-</a>
 <h2>Next Step</h2>
 
 <p>
