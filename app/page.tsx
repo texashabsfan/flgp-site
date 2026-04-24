@@ -3,7 +3,9 @@ export default function Page() {
     <main style={{ padding: "40px", fontFamily: "Arial, sans-serif" }}>
       
       <h1>We Help Family Law Firms Turn More Consults Into Signed Cases in 90 Days</h1>
-
+<p style={{ fontSize: "14px", marginBottom: "10px", fontWeight: "bold" }}>
+  Family Law Growth Partners
+</p>
       <p>
         If you're getting leads but struggling to convert them into retained clients, 
 we fix your intake, follow-up, and closing system so more consults turn into paying cases.
