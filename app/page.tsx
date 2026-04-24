@@ -2,17 +2,19 @@ export default function Page() {
   return (
     <main style={{ padding: "40px", fontFamily: "Arial, sans-serif" }}>
       
-      <h1>We Help Family Law Firms Sign More Clients in 90 Days</h1>
+      <h1>We Help Family Law Firms Turn More Consults Into Signed Cases in 90 Days</h1>
 
       <p>
-        If you're getting leads but not converting them into signed cases,
-        we build the systems that fix your pipeline — from first contact to retained client.
+        If you're getting leads but struggling to convert them into retained clients, 
+we fix your intake, follow-up, and closing system so more consults turn into paying cases.
       </p>
 
       <button style={{ marginTop: "20px", padding: "12px 20px", fontSize: "16px" }}>
-        Book a Strategy Call
+        See Where You're Losing Clients
       </button>
-
+<p style={{ marginTop: "10px", fontSize: "14px" }}>
+  Built specifically for family law firms. No generic marketing tactics.
+</p>
       <hr style={{ margin: "40px 0" }} />
 
       <h2>The Problem</h2>
