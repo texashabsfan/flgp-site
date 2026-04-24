@@ -87,3 +87,28 @@ we fix your intake, follow-up, and closing system so more consults turn into pay
     </main>
   );
 }
+<h2>Next Step</h2>
+
+<p>
+  On this call, we’ll break down your current client acquisition pipeline and identify exactly where you're losing potential clients.
+</p>
+
+<ul>
+  <li>Where leads are dropping off</li>
+  <li>Why consults aren’t converting</li>
+  <li>What changes would immediately improve signed cases</li>
+</ul>
+
+<p>
+  If it makes sense, we’ll also show you how we would fix it.
+</p>
+
+<a href="https://calendly.com/michael-levar/30min/2026-04-27T08:00:00-05:00" target="_blank">
+  <button style={{ marginTop: "20px", padding: "12px 20px", fontSize: "16px" }}>
+    See Where You're Losing Clients
+  </button>
+</a>
+
+<p style={{ fontSize: "14px", marginTop: "10px" }}>
+  This is only for firms with consistent lead flow looking to improve conversion.
+</p>
