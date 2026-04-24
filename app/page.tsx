@@ -53,7 +53,21 @@ we fix your intake, follow-up, and closing system so more consults turn into pay
 
 <p>
   The first step is not guessing. It is diagnosing where revenue is leaking.
-</p>
+</p><h2>Who This Is For</h2>
+
+<ul>
+  <li>Family law firms with consistent lead flow</li>
+  <li>Firms booking consults but struggling to convert them into signed clients</li>
+  <li>Attorneys who want a predictable client acquisition system</li>
+</ul>
+
+<h2>Who This Is Not For</h2>
+
+<ul>
+  <li>Firms with no current lead flow</li>
+  <li>Attorneys looking for quick marketing hacks</li>
+  <li>Anyone unwilling to implement structured intake and follow-up systems</li>
+</ul>
       <h2>Outcome</h2>
       <p>
         More signed cases. More predictable revenue. Less wasted leads.
